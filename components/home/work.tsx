@@ -2,7 +2,7 @@ import { HeaderSmall, Loader } from '@shared-components';
 import Link from 'next/link';
 import { useContext, useEffect, useState } from 'react';
 import { PersonalDetailsContext } from 'shared/utils/contexts';
-import { PersonalDetails } from 'shared/utils/types';
+// import { PersonalDetails } from 'shared/utils/types';
 
 export default function Work(): JSX.Element {
   const personalDetails = useContext(PersonalDetailsContext);

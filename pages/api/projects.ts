@@ -7,7 +7,6 @@ export default async (req: NextApiRequest, res: NextApiResponse): Promise<void> 
     const jsonPath = path.join(process.cwd(), 'data', 'projects.json');
     const fileContents = fs.readFileSync(jsonPath, 'utf8');
     const data = JSON.parse(fileContents);
-    
     res.statusCode = 200;
     res.json(data);
   } catch (err) {

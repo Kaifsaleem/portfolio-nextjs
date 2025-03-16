@@ -42,7 +42,8 @@ export default function Projects(): JSX.Element {
                 <HeaderSmall text="Let's walk the talk!" />
 
                 <h1 className="sm:w-4/5 mb-3 mt-1 text-7xl sm:text-5xl md:text-7xl lg:text-4xl font-normal tracking-wide text-white leading-normal lg:leading-7">
-                  Some impressive <span className="text-pink font-bold">projects</span> for quality assurance
+                  Some impressive <span className="text-pink font-bold">projects</span> for quality
+                  assurance
                 </h1>
                 <h1 className="mb-3 mt-6 text-4xl sm:text-2xl md:text-3xl lg:text-2xl xl:text-1xl font-extrabold text-white leading-none ">
                   Projects he has <span className="text-pink font-bold">tested & developed.</span>

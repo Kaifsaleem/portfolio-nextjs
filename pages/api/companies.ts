@@ -7,12 +7,10 @@ export default async (req: NextApiRequest, res: NextApiResponse): Promise<void> 
     const jsonPath = path.join(process.cwd(), 'data', 'companies.json');
     const fileContents = fs.readFileSync(jsonPath, 'utf8');
     const data = JSON.parse(fileContents);
-    
     // Sort by order if present
     if (data && Array.isArray(data)) {
       data.sort((a, b) => (a.order || 0) - (b.order || 0));
     }
-    
     res.statusCode = 200;
     res.json(data);
   } catch (err) {
