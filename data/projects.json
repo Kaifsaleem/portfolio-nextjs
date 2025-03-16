@@ -1,0 +1,24 @@
+[
+    {
+        "slug": "examcell",
+        "name": "ExamCell",
+        "tagline": "AI-powered online exam monitoring system",
+        "description": "ExamCell is an AI-powered online exam monitoring system designed to enhance academic integrity. It allows institutes to conduct secure online exams with real-time face tracking, automated cheating detection, and role-based access control. Students can take exams within a controlled environment, while teachers and admins can monitor activities in real-time. The system ensures fair assessments through auto-submission on multiple violations, detailed analytics, and seamless user experience with React and NestJS integration.",
+        "img": "/images/projects/image.png",
+        "tags": [
+            "Next.js",
+            "NestJS",
+            "MongoDB",
+            "JWT",
+            "MediaPipe",
+            "WebSockets",
+            "Docker"
+        ],
+        "category": [
+            "Web",
+            "Testing",
+            "AI"
+        ],
+        "featured": true
+    }
+]

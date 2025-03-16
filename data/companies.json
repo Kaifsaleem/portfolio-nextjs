@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Cubosquare",
+        "logo_url": "/images/companies/cubosquare.png",
+        "featured": true,
+        "position": "Backend Developer Intern",
+        "startDate": "October 2024",
+        "endDate": "Present",
+        "responsibilities": [
+            "Developed and optimized RESTful APIs using NestJS, improving data retrieval efficiency and system scalability",
+            "Implemented secure authentication and authorization mechanisms with JWT and role-based access control (RBAC), enhancing data security"
+        ]
+    }
+]

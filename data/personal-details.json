@@ -1,0 +1,25 @@
+{
+    "name": "Kaif Saleem",
+    "logo": "/images/logo-dark.svg",
+    "about": "A fresher with experience, this line says exactly who he is. He is a software developer who crafts beautiful web and apps. His perfect balance of technical & managerial skills stands him apart from the crowd.",
+    "socialMedia": [
+        {
+            "link": "mailto:kaifsaleem1405@gmail.com",
+            "image_file": "/images/icons/mail.svg",
+            "alt_text": "Mail"
+        },
+        {
+            "link": "https://linkedin.com/in/kaif-saleem",
+            "image_file": "/images/icons/linkedin.svg",
+            "alt_text": "LinkedIn"
+        }
+    ],
+    "work": {
+        "company": "Cubosquare",
+        "designation": "Backend Developer Intern",
+        "logo": "/images/companies/cubosquare.png"
+    },
+    "resume": "/KAIF_SALEEM_RESUME.pdf",
+    "profile_img": "/images/bob.png",
+    "calendyUrl": "https://calendly.com/kaifsaleem1405"
+}

@@ -1,0 +1,37 @@
+KAIF SALEEM
+7800962193  KANPUR , UP   kaifsaleem1405@gmail.com  linkedin.com/in/kaif-saleem
+SOFTWARE TESTER
+Software Testing | Automation Testing | API Testing
+Detail-oriented and analytical software tester with a strong understanding of SDLC, STLC, and the bug lifecycle. Skilled in manual and automation testing, with a keen eye for identifying even the smallest software defects. Familiar with Java, Python, and Selenium, allowing for efficient test automation. A proactive team player with strong problem-solving abilities, effective communication skills, and a passion for continuously learning new testing tools and methodologies to enhance software quality and user experience.
+INTERNSHIP
+Cubosquare- kanpur ,UP	October 2024 - PRESENT
+Backend Developer
+In my internship as a backend developer, I had the opportunity to work on real-world projects .where I gained hands-on experience in API development, database management, and system automation.
+    • Developed and optimized RESTful APIs using NestJS, improving data retrieval efficiency and system scalability.
+    • Implemented secure authentication and authorization mechanisms with JWT and role-based access control (RBAC), enhancing data security.
+PROJECTS
+EXAMCELL
+Technologies Used in ExamCell:
+    • Frontend: React (Next.js)
+    • Backend: NestJS (Node.js)
+    • Database: MongoDB
+    • Authentication: JWT (JSON Web Token), Role-Based Access Control
+    • AI Integration: MediaPipe Face Mesh for cheating detection
+    • Real-time Features: WebSockets for live exam monitoring
+    • Deployment & Hosting: Docker, Cloud Hosting (e.g., AWS, Vercel)
+    • Testing & Debugging: Swagger (API testing)
+Output:
+ExamCell is an AI-powered online exam monitoring system designed to enhance academic integrity. It allows institutes to conduct secure online exams with real-time face tracking, automated cheating detection, and role-based access control. Students can take exams within a controlled environment, while teachers and admins can monitor activities in real-time. The system ensures fair assessments through auto-submission on multiple violations, detailed analytics, and seamless user experience with React and NestJS integration.
+EDUCATION	
+AllenHouse Institute Of Technology – Kanpur, UP
+Bachelor of Technology– Computer Science, 2026
+Siddiq Faiz E Am Inter College – Kanpur, UP
+Intermediate, 2022
+
+PROFESSIONAL SKILLS
+    • Software Testing: Manual Testing, Test Case Development, Bug Tracking
+    • Backend Development: NestJS, MongoDB, RESTful APIs, JWT Authentication
+    • Automation Testing: Basic knowledge of Selenium WebDriver
+    • Programming Languages: C, Java, Python, TypeScript
+    • Databases: MongoDB, MySQL (beginner level)
+    • Problem-Solving: Analytical thinking, Debugging, and Troubleshooting
