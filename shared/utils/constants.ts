@@ -93,6 +93,18 @@ const technologies = [
   {
     src: '/images/skills/discordjs.png',
     name: 'DiscordJS'
+  },
+  {
+    src: '/images/skills/nextjs.svg',
+    name: 'NextJS'
+  },
+  {
+    src: '/images/skills/nestjs.png',
+    name: 'NestJS'
+  },
+  {
+    src: '/images/skills/mediapipe.png',
+    name: 'MediaPipe'
   }
 ];
 

@@ -22,23 +22,6 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
   };
   const disableConsole = () => {
     console.log(
-      '%c This place is where I was supposed to post job openings, but currently I need one :P , :)',
-      'background: #212121; color: #f69510; padding: 6px; '
-    );
-    console.log(`
-    _   _                _        ____            _ 
-                                                                                    
-    _   _                        _     
-    | | | |   __ _   _ __   ___  | |__  
-    | |_| |  / _\` | | '__| / __| | '_ \\ 
-    |  _  | | (_| | | |    \\__ \\ | | | |
-    |_| |_|  \\__,_| |_|    |___/ |_| |_|
-    
-    _   ___         _       ____     ___     ___   _ 
-                                                                                             
-                                                             `);
-
-    console.log(
       "%c Let's talk, head to contact page and schedule a call with me!",
       'background: #212121; color: #f69510; padding: 6px;'
     );
@@ -96,8 +79,8 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
           content="https://billboard.srmkzilla.net/api/blog?title=Kaif%20Saleem&subtitle=Software%20Tester&fileType=jpeg&theme=dark&fontSize=180px"
         />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/ks.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/ks.png" />
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
         <meta name="msapplication-TileColor" content="#da532c" />
