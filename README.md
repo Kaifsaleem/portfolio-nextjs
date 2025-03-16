@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img alt="KS_LOGO" src="docs/logo-dark.svg" height="64" />
 </div>
 
@@ -112,4 +112,4 @@ This portfolio is based on the template created by [Harsh Goel](https://harshgoe
 ## Forking this repo 🚨
 
 You are free to use this code for your own portfolio, but please give appropriate credit by linking back to [Harsh Goel](https://harshgoel.me) and [Kaif Saleem](https://kaifsaleem.me).
-# portfolio-nextjs
+# portfolio-nextjs -->
